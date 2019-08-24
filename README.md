@@ -1,5 +1,5 @@
 # ARrobot
-### Unity3D | AR | Vuforia | AR App
+### Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR
 Video Gameplay
 
 <p align="center">
